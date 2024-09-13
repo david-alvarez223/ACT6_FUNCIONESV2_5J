@@ -1,6 +1,7 @@
 # ACT6_FUNCIONESV2_5J
 LLAMADAS A  FUNCIONES W3SCHOOLS VERSION2
-## Ejemplos de funciones matematicas w3schools
-- ![imagen](https://github.com/user-attachments/assets/fcfb392a-beb2-4ae3-8d2d-9739df64e58f)
+## Ejemplos de funciones de tuplas, sets y diccionarios w3schools
+- ![imagen](https://github.com/user-attachments/assets/32350b83-3b1b-4ee0-b07d-4a6616d956b1)
 ## Resultado
-- ![imagen](https://github.com/user-attachments/assets/5111a80b-60b3-4ab8-810c-0edbb8914956)
+- ![imagen](https://github.com/user-attachments/assets/ac0412ca-9fcf-4b85-bc93-28d675b887fc)
+
